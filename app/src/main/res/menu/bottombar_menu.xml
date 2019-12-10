@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuitem_bottombar_Alarm"
+        android:icon="@drawable/alarm"
+        android:title="Alarm"/>
+
+    <item
+        android:id="@+id/menuitem_bottombar_Main"
+        android:icon="@drawable/waterdrops"
+        android:title="Main"/>
+
+    <item
+        android:id="@+id/menuitem_bottombar_Todays"
+        android:icon="@drawable/table"
+        android:title="Today's"/>
+</menu>
